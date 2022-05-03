@@ -80,7 +80,7 @@ Click WA logo to Chat With Me 👇
 ### Simple Method
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖Kaviyah+QR+Scan+Button🤖 👇&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖Kaviyah+QR+Scan+Button🤖+👇:&font=Fira%20Code&center=true&width=380&height=50">
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ALPHAOFFICIAL/V5)
 
