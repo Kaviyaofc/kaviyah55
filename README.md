@@ -66,9 +66,9 @@ Project created by <a href="https://github.com/RIPPER-SER">Kaviya</a> to make it
 </p>
 
 ##
-  <h3 align="center">📢 Support Group :</h3>
+  <h3 align="center">📢 Support Number 🪀 :</h3>
 <p align="center">
-Click WA logo to chat with me 👇
+Click WA logo to Chat With Me 👇
     <br>
 <br>
   <a href="https://wa.me/+94767588628" target="blank"><img align="center" src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png " /></a>
