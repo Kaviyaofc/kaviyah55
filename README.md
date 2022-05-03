@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Kaviya+Ofc&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Kaviya+ᴹᴿʙᴏsᴀ+ᴏғғɪᴄɪᴀʟ&font=Fira%20Code&center=true&width=380&height=50">
 
 
 <h1>🎭🇱🇰 ᴋᴀᴠɪʏᴀ 🇱🇰🎭  WhatsApp User Bot v5.0.0</h1>
