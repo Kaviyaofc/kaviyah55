@@ -34,6 +34,10 @@ Project created by <a href="https://github.com/RIPPER-SER">Kaviya</a> to make it
 </p>
 
 ----
+<br>
+        <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Our Group</a> |
+        <a href="https://Wa.me/+94767588628">ᴹᴿ〠ʙᴏsᴀ〠 Whatsapp </a> |
+   </a>
 
 	</div>
 <p align="center">
