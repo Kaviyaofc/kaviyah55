@@ -14,7 +14,7 @@
 
 <div align="center">
  <p align="center">
-<a href="#"><img title="Kavindu Dilshan" src="https://img.shields.io/badge/Kaviya-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Kavindu Dilshan" src="https://img.shields.io/badge/Kaviya-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/RIPPER-SER
@@ -22,7 +22,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/RIPPER-SER">Achiya</a> to make it public
+Project created by <a href="https://github.com/RIPPER-SER">Kaviya</a> to make it public
     <br>
        | © |
         Reserved |
