@@ -81,9 +81,10 @@ Click WA logo to Chat With Me 👇
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖Kaviyah+QR+Scan+Button🤖+👇:&font=Fira%20Code&center=true&width=380&height=50">
-
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ALPHAOFFICIAL/V5)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🪀Kaviyah+Bot+Deploy+Link🪀+👇:&font=Fira%20Code&center=true&width=380&height=50">
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaviyaofc/kaviyah55)
 <br>
 <br >
