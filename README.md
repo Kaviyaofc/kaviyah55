@@ -56,7 +56,9 @@ Project created by <a href="https://github.com/RIPPER-SER">Kaviya</a> to make it
 <p align="center">
 <a href="https://youtu.be/uAuIcxlGFKw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
-  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ALPHA-OFFICIAL-TEAM&theme=dark" alt="RIPPER-SER" /></p>
+</p>  
 
 <p align="center">
 
